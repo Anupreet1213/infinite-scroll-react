@@ -16,7 +16,7 @@ To get this project up and running, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/anupreet1213/infinite-scroll-react.git
+   git clone https://github.com/Anupreet1213/infinite-scroll-react.git
 
    ```
 
